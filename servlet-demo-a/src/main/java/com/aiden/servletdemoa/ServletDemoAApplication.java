@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.servlet.ServletComponentScan;
 
 @SpringBootApplication
-@ServletComponentScan(basePackages ="com.aiden.servletdemoa.servlet")
+@ServletComponentScan
 public class ServletDemoAApplication {
 
     public static void main(String[] args) {
