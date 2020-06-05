@@ -18,6 +18,10 @@
     </properties>
     <modules>
         <module>servlet-demo-a</module>
+        <module>spring-demo-a</module>
+        <module>springmvc-demo-a</module>
+        <module>springmvc-demo-b</module>
+        <module>java-se-learning</module>
     </modules>
     <dependencyManagement>
         <dependencies>
