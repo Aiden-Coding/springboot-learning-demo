@@ -1,0 +1,6 @@
+management:
+  endpoints:
+    web:
+      base-path: /application
+      exposure:
+        include: "*" #启用所有的端点

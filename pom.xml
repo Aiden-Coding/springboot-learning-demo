@@ -18,6 +18,7 @@
     </properties>
     <modules>
         <module>servlet-demo-a</module>
+      <module>springboot-actuator</module>
     </modules>
     <dependencyManagement>
         <dependencies>
