@@ -14,7 +14,7 @@
     <packaging>pom</packaging>
     <properties>
         <java.version>1.8</java.version>
-        <springboot.verion>2.0.2.RELEASE</springboot.verion>
+        <springboot.verion>2.5.12</springboot.verion>
     </properties>
     <modules>
         <module>servlet-demo-a</module>
